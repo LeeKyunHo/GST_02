@@ -1,5 +1,5 @@
 <div align=center><strong>Game Schedule Tracker 프로젝트_V02</strong></div>
-서버 리팩토링 작업을 통해 구성요소를 모듈화해 점검,수정이 보다 편리해졌습니다. 
+<div align=center>서버 리팩토링 작업을 통해 구성요소를 모듈화해 점검,수정이 보다 편리해졌습니다. </div>
 <div align=center> 
 <br>
   
